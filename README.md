@@ -1,1 +1,1 @@
-Para realizar las pruebas del programar borrar, si existe, texto que haya en el archivo "test.txt"
+Para realizar las pruebas del programa borrar, si existe, texto que haya en el archivo "test.txt"
